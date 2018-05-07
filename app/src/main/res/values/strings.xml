@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">premiereApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login1">Login</string>
+    <string name="login2">Login</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="Menu">Main2Activity</string>
+    <string name="title_activity_preference">prefrence</string>
+</resources>
